@@ -1,0 +1,7 @@
+{
+    "name": "danek/mishova_hodina",
+    "type": "project",
+    "require": {
+        "symfony/console": "^4.0"
+    }
+}
